@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+#这是一个日期倒计时 20220215-iunn
 import datetime  # 导入datetie库
 from tkinter import *           # 导入 Tkinter 库
 import tkinter as tk
